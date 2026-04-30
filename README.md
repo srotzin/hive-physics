@@ -117,3 +117,16 @@ Once running, visit `http://localhost:8000/docs` for the full OpenAPI interface.
 
 ## Data Persistence
 Structure readings are persisted to `structure_data.json` in the working directory. The file is loaded at startup and written after each new reading or baseline update.
+
+
+---
+
+## Hive Civilization
+
+Hive Civilization is the cryptographic backbone of autonomous agent commerce — the layer that makes every agent transaction provable, every payment settable, and every decision defensible.
+
+This repository is part of the **PROVABLE · SETTABLE · DEFENSIBLE** pillar.
+
+- thehiveryiq.com
+- hiveagentiq.com
+- agent-card: https://hivetrust.onrender.com/.well-known/agent-card.json
